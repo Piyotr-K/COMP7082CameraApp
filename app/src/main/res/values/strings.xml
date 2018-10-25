@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CameraApp</string>
+    <string name="text_datePlaceHolder">Date: 2011-07-25</string>
+    <string name="text_locationPlaceHolder">Lat: 97.00 Long: 29.20</string>
+    <string name="text_captionPlaceHolder">cap. Test Caption For Photo</string>
+    <string name="text_captionHint">Enter a caption here...</string>
+    <string name="btn_captionUpdate">Update</string>
+    <string name="btn_left">&lt;</string>
+    <string name="btn_right">&gt;</string>
+    <string name="btn_snap">snap</string>
+    <string name="btn_filter">filter</string>
 </resources>
